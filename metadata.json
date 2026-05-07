@@ -1,0 +1,5 @@
+{
+  "name": "Parts Catalog AI Extractor",
+  "description": "Extract structured parts data from technical catalogs into JSON format using Gemini AI.",
+  "requestFramePermissions": []
+}
